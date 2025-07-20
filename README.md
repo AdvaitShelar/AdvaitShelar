@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **advaitshelar86@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Airline related data science projects
+- 🔭 **I’m currently working on:** Data science projects 
 - 🌱 **I’m currently learning:** MLOps and Big Data
 - 👯 **I’m looking to collaborate on:** OpenSource AI and Data Science projects
 - 🤔 **I’m looking for help with:** Big Data, MLOps and MLFlow
